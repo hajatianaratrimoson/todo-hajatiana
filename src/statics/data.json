@@ -1,0 +1,22 @@
+{
+  "users": {
+    "USERID1": {
+      "name": "Haja",
+      "email": "hajatiana.ratrimoson@gmail.com"
+    },
+    "USERID2": {
+      "name": "Laingo",
+      "email": "hajatiana.ratrimoson@gmail.com"
+    }
+  },
+  "tasks": {
+    "USERID1": {
+      "title": "Agenda",
+      "done": false
+    },
+    "USERID2": {
+      "title": "EXERCISE",
+      "done": false
+    }
+  }
+}
